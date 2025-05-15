@@ -31,7 +31,7 @@ This project is a simple ICPC (International Collegiate Programming Contest) web
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Indirasribhashyam/icpc-dbms-project.git
    ```
 
 2. Navigate into the project directory:
