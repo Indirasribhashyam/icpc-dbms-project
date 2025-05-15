@@ -31,7 +31,7 @@ This project is a simple ICPC (International Collegiate Programming Contest) web
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/suman1406/icpc-website.git
+   git clone 
    ```
 
 2. Navigate into the project directory:
