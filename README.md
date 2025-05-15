@@ -78,9 +78,3 @@ Once the application is up and running, users can manage different aspects of th
 - User authentication and roles (e.g., admin, user)
 - Enhanced search functionality for alumni and champions
 - Improved UI/UX for better navigation
-
-## Contributors
-
-- Suman Panigrahi (CB.EN.U4CSE22444)
-- Sravani Oruganti (CB.EN.U4CSE22457)
-- Soma Siva Pravallika (CB.EN.U4CSE22440)
